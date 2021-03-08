@@ -1,0 +1,2 @@
+
+#     sets.append(array[][i])
